@@ -50,6 +50,6 @@ print(balance)
 balance -= 3000 
 print(balance)
 
-//Задание ,
+//Задание 6
 print((10 + 2) * 5)
 print(4 * (9 - 6) / 2)
